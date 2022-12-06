@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### About Me 🚀
-🌱  </br>
-👨‍💻  </br>
+- 🌱  </br>
+- 👨‍💻  </br>
 
 ###
 
@@ -67,8 +66,3 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
-
-###
-
-<p align="left"> <img src= "https://visitor-badge.laobi.icu/badge?page_id=jordipynb.jordipynb" />
-<img src="https://komarev.com/ghpvc/?username=jordipynb&label=Profile%20views&color=0e75b6&style=flat" alt="axg-coder" /> </p>
