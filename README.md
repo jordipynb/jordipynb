@@ -70,4 +70,5 @@ Here are some ideas to get you started:
 
 ###
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordipynb.jordipynb)
+<p align="left"> <img src= "https://visitor-badge.laobi.icu/badge?page_id=jordipynb.jordipynb" />
+<img src="https://komarev.com/ghpvc/?username=jordipynb&label=Profile%20views&color=0e75b6&style=flat" alt="axg-coder" /> </p>
