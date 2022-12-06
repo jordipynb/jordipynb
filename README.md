@@ -1,17 +1,17 @@
 <a href="https://www.linkedin.com/in/jordan-pla-2681521bb/">
-  <img align="right" alt="Jordan's LinkedIn" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/linkedin.png" />
+  <img align="right" alt="Jordan's LinkedIn" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/linkedin.png" />
 </a>
-<a href="https://www.facebook.com/braydon.wang.5">
+<a href="https://www.facebook.com/jordan.plagonzalez">
   <img align="right" alt="Jordan's Facebook" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/facebook.png" />
 </a>
-<a href="https://www.instagram.com/braydon.wang/">
+<a href="https://www.instagram.com/jordipynb/">
   <img align="right" alt="Jordan's Instagram" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/instagram.png" />
 </a>
 <a href="https://t.me/jordipi/">
   <img align="right" alt="Jordan's Telegram" width="32px" height="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/telegram.png" />
 </a>
 <a href="mailto: jordanpg41@gmail.com">
-  <img align="right" alt="Jordan's Email" width="30px" height="30px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
+  <img align="right" alt="Jordan's Email" width="31px" height="30px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
 </a>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> I'm Jordan Pla!
