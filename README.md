@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=6&hide_border=false)" height="200" width="347" alt="languages graph"
 </div>
 
-<h2 align="center">My Usual Techs</h2>   
+<h2 align="center">Techs I Use Frequently</h2>   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
