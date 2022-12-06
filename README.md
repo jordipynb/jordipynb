@@ -5,13 +5,13 @@
   <img align="right" alt="Jordan's Facebook" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/facebook.png" />
 </a>
 <a href="https://www.instagram.com/braydon.wang/">
-  <img align="right" alt="Jordan's Instagram" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/instagram.png" />
+  <img align="right" alt="Jordan's Instagram" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/instagram.png" />
 </a>
 <a href="https://t.me/jordipi/">
   <img align="right" alt="Jordan's Telegram" width="32px" height="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/telegram.png" />
 </a>
 <a href="mailto: jordanpg41@gmail.com">
-  <img align="right" alt="Jordan's Email" width="32px" height="30px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
+  <img align="right" alt="Jordan's Email" width="30px" height="30px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
 </a>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> I'm Jordan Pla!
