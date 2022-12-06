@@ -2,7 +2,7 @@
   <img align="right" alt="Jordan's LinkedIn" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/braydon.wang.5">
-  <img align="right" alt="Jordan's Facebook" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/facebook.png" />
+  <img align="right" alt="Jordan's Facebook" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/facebook.png" />
 </a>
 <a href="https://www.instagram.com/braydon.wang/">
   <img align="right" alt="Jordan's Instagram" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/instagram.png" />
