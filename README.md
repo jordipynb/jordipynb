@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 </br>   
 <h2 align="center">Contact Me</h2>
 <div align="left"> 
-  
-For more details check my [Curriculum Vitae](https://t.me/jordipi/)  
 <a href="https://www.instagram.com/jordipynb/">
   <img align="right" alt="Jordan's Instagram" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/instagram.png" />
 </a>
@@ -62,5 +60,12 @@ For more details check my [Curriculum Vitae](https://t.me/jordipi/)
   <img align="right" alt="Jordan's Email" width="31px" height="30px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
 </a> 
  
+[![Linkedin Badge](https://img.shields.io/badge/-Jordan_Pla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jordan-pla-2681521bb/)](https://www.linkedin.com/in/jordan-pla-2681521bb/)
+[![Gmail Badge](https://img.shields.io/badge/-jordanpg41@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanpg41@gmail.com)](mailto:jordanpg41@gmail.com)
+[![Telegram](https://img.shields.io/badge/-jordipi-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/jordipi/)](https://t.me/jordipi/)
+[![Facebook Badge](https://img.shields.io/badge/-Jordan_Pla-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jordan.plagonzalez)](https://www.facebook.com/jordan.plagonzalez)
+[![Instagram Badge](https://img.shields.io/badge/-jordipynb-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jordipynb/)](https://www.instagram.com/jordipynb/)
+[![Curriculum Vitae](https://img.shields.io/badge/-Curriculum_Vitae-green?style=flat-square&logoColor=white&link=https://)](https://)
+
 </div>
 
