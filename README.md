@@ -11,7 +11,7 @@
   <img align="right" alt="Jordan's Telegram" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/telegram.svg" />
 </a>
 <a href="mailto: jordanpg41@gmail.com">
-  <img align="right" alt="Jordan's Email" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.svg" />
+  <img align="right" alt="Jordan's Email" width="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
 </a>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> I'm Jordan Pla!
