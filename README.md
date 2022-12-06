@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="center">Techs I Use</h2>
+<h2 align="center">Usual Techs I Use</h2>
 
 ###
 
