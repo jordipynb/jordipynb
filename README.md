@@ -42,23 +42,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 </br>   
+
 <h2 align="center">Contact Me</h2>
-<div align="left"> 
-<a href="https://www.instagram.com/jordipynb/">
-  <img align="right" alt="Jordan's Instagram" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/instagram.png" />
-</a>
-<a href="https://www.facebook.com/jordan.plagonzalez">
-  <img align="right" alt="Jordan's Facebook" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/facebook.png" />
-</a>
-<a href="https://www.linkedin.com/in/jordan-pla-2681521bb/">
-  <img align="right" alt="Jordan's LinkedIn" width="32px" height="33px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/linkedin.png" />
-</a>
-<a href="https://t.me/jordipi/">
-  <img align="right" alt="Jordan's Telegram" width="32px" height="32px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/telegram.png" />
-</a>
-<a href="mailto: jordanpg41@gmail.com">
-  <img align="right" alt="Jordan's Email" width="31px" height="30px" src="https://raw.githubusercontent.com/jordipynb/jordipynb/main/gmail.png" />
-</a> 
+<div align="center"> 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jordan_Pla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jordan-pla-2681521bb/)](https://www.linkedin.com/in/jordan-pla-2681521bb/)
 [![Gmail Badge](https://img.shields.io/badge/-jordanpg41@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanpg41@gmail.com)](mailto:jordanpg41@gmail.com)
