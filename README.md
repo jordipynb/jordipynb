@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 <div align="center"> 
 
 [![Curriculum Vitae](https://img.shields.io/badge/-Curriculum_Vitae-darkgreen?style=flat-square&logo=GoogleDrive&logoColor=white&link=https://)](https://)
-[![Gmail Badge](https://img.shields.io/badge/-jordanpg41@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanpg41@gmail.com)](mailto:jordanpg41@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Jordan_Pla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jordan-pla-2681521bb/)](https://www.linkedin.com/in/jordan-pla-2681521bb/)
-[![Telegram](https://img.shields.io/badge/-jordipi-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/jordipi/)](https://t.me/jordipi/)
-[![Facebook Badge](https://img.shields.io/badge/-Jordan_Pla-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jordan.plagonzalez)](https://www.facebook.com/jordan.plagonzalez)
-[![Instagram Badge](https://img.shields.io/badge/-jordipynb-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jordipynb/)](https://www.instagram.com/jordipynb/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanpg41@gmail.com)](mailto:jordanpg41@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/jordipi/)](https://t.me/jordipi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jordan-pla-2681521bb/)](https://www.linkedin.com/in/jordan-pla-2681521bb/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jordan.plagonzalez)](https://www.facebook.com/jordan.plagonzalez)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jordipynb/)](https://www.instagram.com/jordipynb/)
 
 </div>
 
