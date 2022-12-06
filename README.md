@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 🚀
-- 🌱  </br>
-- 👨‍💻  </br>
+- 🌱  I’m currently learning ... </br>
+- 👨‍💻  I’m currently working on ... </br>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=6&hide_border=false)" height="200" width="347" alt="languages graph"
 </div>
 
-<h2 align="center">Usual Techs I Use</h2>
+<h2 align="center">Usual Techs I Use</h2>   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
-
+</br>   
 <h2 align="center">Contact Me</h2>
 <div align="left"> 
   
