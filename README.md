@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jordan Pla!](https://t.me/jordipi/) 
 
 <!--
 **jordipynb/jordipynb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### About Me 🚀
+🌱  </br>
+👨‍💻  </br>
+
+![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordipynb&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Jordan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jordipynb.jordipynb)
