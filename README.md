@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 🚀
-- 🌱  I’m currently learning ... </br>
-- 👨‍💻  I’m currently working on ... </br>
+**About Me** 🚀
+- 👨‍💻  I’m currently learning ... </br>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
@@ -55,3 +54,4 @@ Here are some ideas to get you started:
 
 </div>
 
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=jordipynb&column=3&margin-w=15&margin-h=15) -->
