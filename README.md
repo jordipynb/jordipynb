@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jordipynb&hide_title=true&show_icons=true&hide_border=true" height="200" width="490" alt="stats graph" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=6&hide_border=false)" height="200" width="347" alt="languages graph"
+    <img src="https://github-readme-stats.vercel.app/api?username=jordipynb&hide_title=true&show_icons=true&hide_border=true" height="190" width="565" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=8&hide_border=false&hide=CMake,Makefile" height="190" width="347" alt="languages graph"
 </div>
 
 <h2 align="center">Techs I Use Frequently</h2>   
