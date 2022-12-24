@@ -1,4 +1,4 @@
-# I'm Jordan Pla! Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> 
+# I’m Jordan Pla! Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> 
 
 <!--
 **jordipynb/jordipynb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
