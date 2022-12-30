@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently in a stage of improvement and learning.
 - 🌍 Every day that passes I find myself more interested in being able to help with my works and ideas.
 - ✍🏻 I confess myself to be a workaholic, reading and research passionate and I love doing science and innovating.
-- 👨🏻‍🎨 I characterize myself as having creativity, an adventurous spirit and an interest in innovation.
+- 👨🏻‍🎨 I characterize myself as having creativity and an adventurous spirit.
 
 <h2 align="center">My Stats</h2>
 <div align="center">
