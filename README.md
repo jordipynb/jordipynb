@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently in a stage of improvement and learning.
 - 🌍 Every day that passes I find myself more interested in being able to help with my works and ideas.
 - ✍🏻 I confess myself to be a workaholic, reading and research passionate and I love doing science and innovating.
-- 👨🏻‍🎨 I believe that not only a programmer lives in me, but also a dreamer, an artist... so in everything I do and in everything I want to do: creativity, an adventurous spirit or an interest in innovation must prevail.
+- 👨🏻‍🎨 I characterize myself as having creativity, an adventurous spirit and an interest in innovation.
 
 <h2 align="center">My Stats</h2>
 <div align="center">
