@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🍂 Every day that passes I find myself more interested in being able to help with my works and ideas.
 - 📖 I confess myself to be a workaholic and passionate about reading and research.
 - ✍🏻 Science and innovation is what I love to do.
-- 🧙🏻‍♂️ I like to unleash my imagination to create beautiful projects with both my pinch of creativity and my crazy adventurous spirit.
+- 🧙🏻‍♂️ I like to unleash my imagination to create beautiful projects with my pinch of creativity and crazy adventurous spirit.
 
 <h2 align="center">My Stats</h2>
 <div align="center">
