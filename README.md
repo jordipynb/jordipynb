@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **About Me** 🚀
 - 😝 I’m the guy with the lost look in the pic.
 - 👨🏻‍💻 I’m currently in a stage of improvement and learning.
-- 🧠 Every day that passes I find myself more interested in being able to help with my works and ideas.
+- 🍂 Every day that passes I find myself more interested in being able to help with my works and ideas.
 - 📖 I confess myself to be a workaholic and passionate about reading and research.
 - ✍🏻 Science and innovation is what I love to do.
 - 🧙🏻‍♂️ Creativity and adventurous spirit define me.
