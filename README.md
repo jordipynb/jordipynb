@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - 🍂 Every day that passes I find myself more interested in being able to help with my works and ideas.
 - 📖 I confess myself to be a workaholic and passionate about reading and research.
 - ✍🏻 Science and innovation is what I love to do.
-- 🧙🏻‍♂️ Creativity and adventurous spirit define me.
+- 🧙🏻‍♂️ I like to unleash my imagination to create beautiful projects with both my pinch of creativity and my crazy adventurous spirit.
 
 <h2 align="center">My Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jordipynb&hide_title=true&show_icons=true&&hide_border=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=8&hide_border=false&hide=CMake,Makefile" height="150" alt="languages graph"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordipynb&layout=compact&langs_count=8&hide_border=true&hide=CMake,Makefile" height="150" alt="languages graph"
 </div>
 
 <h2 align="center">Techs I Use Frequently</h2>   
