@@ -61,7 +61,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-     <img src="https://github-profile-trophy.vercel.app/?username=jordipynb&theme=onedark&hide_border=true&no-frame=true&no-bg=false&margin-w=4" alt="trophies graph"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=jordipynb&theme=onedark&hide_border=true&no-frame=true&no-bg=false&column=3&margin-w=4" alt="trophies graph"/>
 </div>
 
 <h2 align="center">👤 Contact & Information</h2>
