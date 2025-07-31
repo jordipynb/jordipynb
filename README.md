@@ -54,7 +54,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jordipynb&theme=onedark&show_icons=true&&locale=en&hide_title=true&&&hide_border=true&include_all_commits=false&count_private=false" height="140" alt="stats graph"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordipynb&theme=onedark&hide_border=true&layout=compact&show_icons=true" height="140" alt="time graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordipynb&theme=onedark&layout=compact&show_icons=true&include_all_commits=false&count_private=false&locale=en&langs_count=8&hide_border=true&hide=CMake,Makefile,Jupyter%20Notebook" height="140" alt="languages graph"/>
 </div>
 
