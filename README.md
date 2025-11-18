@@ -1,7 +1,6 @@
 # Hi 👋🏻, I’m Jordan Pla!
 **About Me** 🚀
 - 👨🏻‍💻 I’m currently in a stage of improvement and learning.
-- 🍂 Every day that passes I find myself more interested in being able to help with my works and ideas.
 - 📖 I confess myself to be a workaholic and passionate about reading and research.
 - ✍🏻 Science and innovation is what I love to do.
 - 🧙🏻‍♂️ I like to unleash my imagination to make beautiful projects with my creativity.
